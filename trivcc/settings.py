@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-r00)4%0ynd6h4q)#p=jupat_x#&51!1@c_t!su$1*i=0msm_-f
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['triv.cc']
+ALLOWED_HOSTS = ['triv.cc', 'trivcc.herokuapp.com']
 
 
 # Application definition
